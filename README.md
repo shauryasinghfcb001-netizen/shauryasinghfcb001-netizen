@@ -1,49 +1,48 @@
-# SHAURYA
+# Shaurya Singh
 
-Founder-in-progress building SHAURYA.
+> **16-year-old Independent Systems Architect & AI Engineer**  
+> Founder & Principal Architect at **[Shaurya Studio®](https://shaurya-studio.vercel.app/)**  
+> Architect of **Automation OS** & **Mini AI**
 
-Currently building SHAURYA — Founder HQ, the command center where systems, workflows, content engines, business tools, and future products are designed, tested, and deployed.
+---
 
-## Current Projects
+### ◈ Core Practice & Architecture
 
-### SHAURYA — Founder HQ
+I design and build deterministic multi-agent architectures, real-time voice infrastructure, and automated business operating systems. Operating globally through [Shaurya Studio](https://shaurya-studio.vercel.app/).
 
-The headquarters of the SHAURYA ecosystem.
+- ⚡ **Automation OS**: Multi-agent automation operating system orchestrating background workers, webhook event triage, autonomous telephonic routing, and end-to-end CRM synchronization.
+- 🧠 **Mini AI Architectures**: Ultra-lightweight micro-agent inference architecture engineered for low-latency edge routing, intent classification, and syllabus-grounded context delivery with zero runtime overhead.
+- 🎙️ **Autonomous Voice Infrastructure (Vapi)**: Sub-400ms conversational voice agents wired to telephony trunks and CRM endpoints for 24/7 inbound qualification and intelligent call dispatch.
+- 💬 **WhatsApp Cloud API Pipelines**: Production-grade conversational business infrastructure, lead qualification engines, and real-time bidirectional CRM pipelines.
 
-### Project Jarvis
+---
 
-Voice-first command interface and personal operating assistant.
+### ◈ Flagship Systems & Production Engineering
 
-### SHAURYA Multi-Agent System
+| System | Architecture / Focus | Deployment Stack | Status |
+| :--- | :--- | :--- | :--- |
+| **[Automation OS](https://shaurya-studio.vercel.app/work/automation-os/)** | Centralized Multi-Agent Automation Engine | Next.js, Supabase, Vercel, Python | Active Flagship |
+| **Mini AI** | Edge Micro-Agent Inference & Triage Engine | Python, FastEmbed, Edge Runtimes | Active Core |
+| **Autonomous Voice Agents** | Bidirectional Audio & Telephony Pipeline | Vapi, WebSockets, Webhooks, FastAPI | Production |
+| **WhatsApp Cloud API** | Conversational Routing & Automated Lead Ops | Meta Graph API, Webhooks, Supabase | Production |
+| **K-12 Coaching Platform (Rudra SSC)** | Digital Operations & Exam Infrastructure | Next.js, Supabase, Firebase | Agency Client Operation |
 
-A modular agent system focused on orchestration, memory, workflows, and business operations.
+---
 
-### GestureOS v0.1
+### ◈ Engineering Stack
 
-Hand-tracking and gesture-based desktop interaction.
+- **Agentic & AI Infrastructure**: Autonomous Agent Swarms, Real-Time Bidirectional Speech (Gemini Live / Vapi), LLM Tool-Use, Context Memory Graphs, RAG Pipelines
+- **Backend & Cloud Systems**: Node.js, Python, FastAPI, Supabase (PostgreSQL, Row-Level Security, Realtime), Redis, Vercel Serverless
+- **Frontend & Interfaces**: Next.js (App Router), Modern Vanilla CSS / High-Precision Design Systems, Three.js / WebGL, Web Audio API
 
-## Current Mission
+---
 
-Build systems that help founders and businesses become more systematic, faster, smarter, and scalable.
+### ◈ Entity Verification & Practice Footprint
 
-## Building In Public
+- **Studio Website**: [shaurya-studio.vercel.app](https://shaurya-studio.vercel.app/)
+- **Selected Architecture Case Studies**: [Automation OS Case Study](https://shaurya-studio.vercel.app/work/automation-os/)
+- **Contact**: shaurya.singhfcb001@gmail.com
 
-Class 12 student.
-Founder-in-progress.
-Learning, building, testing, and documenting the journey.
+---
 
-
-<!--
-**shauryasinghfcb001-netizen/shauryasinghfcb001-netizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<sub>Operating Globally / Remote · Grounded in Patna, Bihar, India · All systems engineered with zero fluff.</sub>
