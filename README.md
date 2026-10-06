@@ -25,7 +25,9 @@
 
 ## 👋 about me
 
-I'm **Shaurya Singh**, a 16-year-old Class 12 CBSE student (PCM) from Patna, Bihar, India, and a **solo student founder**. I build real AI products by **directing AI agents**, not by hand-coding every line. I make edtech for students like me, run an AI agency for businesses, teach AI through workshops, and create AI and tech content for young people.
+I'm **Shaurya Singh**, a 16-year-old Class 12 CBSE student (PCM) from Patna, Bihar, India, and a **solo student founder**. I build real AI products by **directing AI agents**, not by hand-coding every line.
+
+At 15, I built and shipped my first product solo: **[Rudra SSC](https://rudrassc.com)**, a complete SSC exam mentorship platform. Then I built **[Mentor.ai](https://cbse-90-board-mentor.netlify.app)**, an AI study mentor for CBSE students. I make edtech for students like me, run an AI agency for businesses, teach AI through workshops, and create AI and tech content for young people.
 
 ---
 
@@ -33,8 +35,9 @@ I'm **Shaurya Singh**, a 16-year-old Class 12 CBSE student (PCM) from Patna, Bih
 
 ```text
 edtech founder
+  ﹂ Rudra SSC: SSC exam mentorship platform, my first product (built solo at 15)
   ﹂ Mentor.ai: AI study mentor for CBSE Class 12 students
-  ﹂ Rudra SSC + Coaching Lead CRM: tools for coaching centres
+  ﹂ Coaching Lead CRM: lead follow-up for coaching centres
 
 AI agency: Shaurya Studio
   ﹂ AI voice agents (Vapi)
@@ -52,6 +55,35 @@ content creator
   ﹂ Instagram @shauryaexpri (Shaurya XP) + YouTube @ShauryaSinghfcb
   ﹂ AI and tech for young people, AI-powered video workflows
 ```
+
+---
+
+## 🥇 first shipped product: Rudra SSC
+
+<table>
+<tr>
+<td>
+
+### [🏫 Rudra SSC](https://rudrassc.com)
+
+A **complete SSC exam mentorship platform** I built solo at 15, live on [rudrassc.com](https://rudrassc.com) and [rudrassc.in](https://rudrassc.in).
+
+- Priced batch system
+- Student portal
+- Scholarship mock-test engine with timed sections and negative marking
+- Admin portal
+
+[![Live .com](https://img.shields.io/badge/rudrassc.com-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rudrassc.com)
+[![Live .in](https://img.shields.io/badge/rudrassc.in-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rudrassc.in)
+[![Overview](https://img.shields.io/badge/project_overview-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shauryasinghfcb001-netizen/rudra-ssc-showcase)
+
+![focus](https://img.shields.io/badge/focus-edtech-blue?style=flat)
+![exam](https://img.shields.io/badge/for-SSC_exams-orange?style=flat)
+![built](https://img.shields.io/badge/built_solo-at_15-purple?style=flat)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -106,12 +138,12 @@ AI workshops and training, the education arm of Shaurya Studio.
 <tr>
 <td width="50%" valign="top">
 
-### [🏫 Rudra SSC](https://github.com/shauryasinghfcb001-netizen/rudra-ssc-showcase)
+### [🏫 Rudra SSC](https://rudrassc.com)
 
-Student task and study-management system for coaching centres.
+My first product, built solo at 15: SSC exam mentorship platform with batches, student portal, mock-test engine and admin portal.
 
 ![focus](https://img.shields.io/badge/focus-edtech-blue?style=flat)
-![live](https://img.shields.io/badge/live-rudrassc.com-2ea44f?style=flat)
+![live](https://img.shields.io/badge/live-.com_%2B_.in-2ea44f?style=flat)
 
 </td>
 <td width="50%" valign="top">
