@@ -31,6 +31,27 @@ At 15, I built and shipped my first product solo: **[Rudra SSC](https://rudrassc
 
 ---
 
+## ⚡ now
+
+- 🏆 Shipping **[Mentor.ai](https://cbse-90-board-mentor.netlify.app)** for the **Next Founders Hackathon**
+- 🏢 Running **[Shaurya Studio](https://shaurya-studio.vercel.app)**, my AI agency
+- 🎥 Creating AI and tech content on Instagram **[@shauryaexpri](https://www.instagram.com/shauryaexpri/)** and YouTube **[@ShauryaSinghfcb](https://www.youtube.com/@ShauryaSinghfcb)**
+- 💬 Running an AI-education WhatsApp community for young builders
+
+---
+
+## ✨ highlights
+
+| | |
+|---|---|
+| 🚀 | Shipped **2 real products solo** by 16 |
+| 🏫 | Built a **complete mentorship platform at 15**: portals, mock-test engine, payments-ready batches |
+| 💬 | Runs an **AI-education community** for young builders |
+| 🏢 | **Agency founder** + **AI content creator** |
+| 🤖 | Builds everything by **directing AI agents** |
+
+---
+
 ## 🧭 what I do
 
 ```text
@@ -130,24 +151,36 @@ A **complete SSC exam mentorship platform** I built solo at 15, live on [rudrass
 
 ---
 
-## 🧰 tech stack
+## 🧰 toolbox
 
-<div align="center">
+**Languages & frameworks**<br/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![WhatsApp](https://img.shields.io/badge/WhatsApp_API-25D366?style=flat-square&logo=whatsapp&logoColor=white)
 
-![Claude](https://img.shields.io/badge/AI_Agents-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![WhatsApp](https://img.shields.io/badge/WhatsApp_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+**Infra & hosting**<br/>
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=flat-square&logo=hostinger&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-</div>
+**Agentic harnesses**<br/>
+![CrewAI](https://img.shields.io/badge/CrewAI-FF5A50?style=flat-square&logo=crewai&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6E40C9?style=flat-square&logoColor=white)
+
+**AI IDEs & tools**<br/>
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Open Interpreter](https://img.shields.io/badge/Open_Interpreter-222222?style=flat-square&logoColor=white)
+![Hermes Agent](https://img.shields.io/badge/Hermes_Agent-5A4FCF?style=flat-square&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-0D1117?style=flat-square&logoColor=white)
+![Blackbox](https://img.shields.io/badge/Blackbox_AI-111111?style=flat-square&logoColor=white)
 
 ---
 
