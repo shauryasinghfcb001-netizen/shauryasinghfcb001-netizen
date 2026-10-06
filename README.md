@@ -58,7 +58,30 @@ content creator
 
 ---
 
-## 🥇 first shipped product: Rudra SSC
+## ⭐ featured: Mentor.ai
+
+<table>
+<tr>
+<td>
+
+### [🎓 Mentor.ai (CBSE-90 Board Mentor)](https://cbse-90-board-mentor.netlify.app)
+
+An **AI study mentor for CBSE Class 12 students**. It turns daily confusion into one clear thing to do each day, and adapts the plan to the student. Built by a CBSE student, for CBSE students.
+
+[![Live](https://img.shields.io/badge/open_the_live_app-6e40c9?style=for-the-badge&logo=netlify&logoColor=white)](https://cbse-90-board-mentor.netlify.app)
+[![Overview](https://img.shields.io/badge/project_overview-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shauryasinghfcb001-netizen/cbse-90-board-mentor-showcase)
+
+![focus](https://img.shields.io/badge/focus-edtech-blue?style=flat)
+![audience](https://img.shields.io/badge/for-CBSE_Class_12-orange?style=flat)
+![type](https://img.shields.io/badge/type-AI_mentor-purple?style=flat)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🥇 origin story: Rudra SSC, my first shipped product
 
 <table>
 <tr>
@@ -87,143 +110,21 @@ A **complete SSC exam mentorship platform** I built solo at 15, live on [rudrass
 
 ---
 
-## ⭐ featured: Mentor.ai
-
-<table>
-<tr>
-<td>
-
-### [🎓 Mentor.ai (CBSE-90 Board Mentor)](https://cbse-90-board-mentor.netlify.app)
-
-An **AI study mentor for CBSE Class 12 students**. It turns daily confusion into one clear thing to do each day, and adapts the plan to the student. Built by a CBSE student, for CBSE students.
-
-[![Live](https://img.shields.io/badge/open_the_live_app-6e40c9?style=for-the-badge&logo=netlify&logoColor=white)](https://cbse-90-board-mentor.netlify.app)
-[![Overview](https://img.shields.io/badge/project_overview-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shauryasinghfcb001-netizen/cbse-90-board-mentor-showcase)
-
-![focus](https://img.shields.io/badge/focus-edtech-blue?style=flat)
-![audience](https://img.shields.io/badge/for-CBSE_Class_12-orange?style=flat)
-![type](https://img.shields.io/badge/type-AI_mentor-purple?style=flat)
-
-</td>
-</tr>
-</table>
-
----
-
 ## 🚀 projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [🏢 Shaurya Studio](https://shaurya-studio.vercel.app)
-
-My AI agency: voice agents, WhatsApp automation, AI websites, RAG chatbots and n8n workflows for businesses in India.
-
-![focus](https://img.shields.io/badge/focus-AI_agency-bd93f9?style=flat)
-![live](https://img.shields.io/badge/live-shaurya--studio.vercel.app-000000?style=flat&logo=vercel)
-
-</td>
-<td width="50%" valign="top">
-
-### [📚 Grow With Us](https://shaurya-studio.vercel.app)
-
-AI workshops and training, the education arm of Shaurya Studio.
-
-![focus](https://img.shields.io/badge/focus-AI_education-green?style=flat)
-![type](https://img.shields.io/badge/type-workshops-orange?style=flat)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [🏫 Rudra SSC](https://rudrassc.com)
-
-My first product, built solo at 15: SSC exam mentorship platform with batches, student portal, mock-test engine and admin portal.
-
-![focus](https://img.shields.io/badge/focus-edtech-blue?style=flat)
-![live](https://img.shields.io/badge/live-.com_%2B_.in-2ea44f?style=flat)
-
-</td>
-<td width="50%" valign="top">
-
-### [📇 Coaching Lead CRM](https://github.com/shauryasinghfcb001-netizen/coaching-lead-crm-demo-showcase)
-
-Lead capture and follow-up for institutes and education businesses.
-
-![focus](https://img.shields.io/badge/focus-edtech_CRM-blue?style=flat)
-![type](https://img.shields.io/badge/type-demo-lightgrey?style=flat)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [🧠 Jarvis](https://github.com/shauryasinghfcb001-netizen/jarvis-showcase)
-
-Personal AI assistant with a second brain: LangGraph + Chroma RAG over my notes.
-
-![focus](https://img.shields.io/badge/focus-AI_agents-blue?style=flat)
-![stack](https://img.shields.io/badge/stack-LangGraph_%2B_RAG-6e40c9?style=flat)
-
-</td>
-<td width="50%" valign="top">
-
-### [⚙️ Automation OS](https://github.com/shauryasinghfcb001-netizen/shaurya-automation-os-hub71-proof-showcase)
-
-Operator-style task routing and repeatable automation workflows.
-
-![focus](https://img.shields.io/badge/focus-automation-orange?style=flat)
-![type](https://img.shields.io/badge/type-proof_project-lightgrey?style=flat)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [🤖 Queen Chatbot](https://github.com/shauryasinghfcb001-netizen/Queen-chatbot-)
-
-WhatsApp assistant bot for businesses: rules first, local LLM second, with guardrails.
-
-![focus](https://img.shields.io/badge/focus-chatbots-blue?style=flat)
-![stack](https://img.shields.io/badge/stack-python-3776AB?style=flat)
-
-</td>
-<td width="50%" valign="top">
-
-### [🏛️ Founder HQ](https://shaurya-portfolio-one.vercel.app)
-
-My founder portfolio and project hub, plus the [FounderVault site](https://github.com/shauryasinghfcb001-netizen/foundervault-site).
-
-![focus](https://img.shields.io/badge/focus-portfolio-orange?style=flat)
-![stack](https://img.shields.io/badge/stack-typescript-3178C6?style=flat)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [📓 NotebookLM Clone](https://github.com/shauryasinghfcb001-netizen/notebooklm-clone)
-
-Open source take on source-grounded AI notebooks (work in progress).
-
-![focus](https://img.shields.io/badge/focus-RAG-green?style=flat)
-![type](https://img.shields.io/badge/type-open_source-purple?style=flat)
-
-</td>
-<td width="50%" valign="top">
-
-### [🎬 HyperFrames (fork)](https://github.com/shauryasinghfcb001-netizen/hyperframes)
-
-HTML-to-video rendering built for AI agents. I use it for AI-powered video content.
-
-![focus](https://img.shields.io/badge/focus-AI_video-red?style=flat)
-![type](https://img.shields.io/badge/type-open_source-purple?style=flat)
-
-</td>
-</tr>
-</table>
+| Project | One-liner | Live | Tech |
+|---|---|---|---|
+| **Mentor.ai** | AI study mentor for CBSE Class 12 students (flagship) | [cbse-90-board-mentor.netlify.app](https://cbse-90-board-mentor.netlify.app) | TypeScript, Postgres, Netlify |
+| **Rudra SSC** | SSC exam mentorship platform, my first product (built solo at 15) | [rudrassc.com](https://rudrassc.com) · [.in](https://rudrassc.in) | TypeScript, JavaScript, Postgres |
+| **Shaurya Studio** | AI agency: voice agents, WhatsApp automation, AI websites, RAG chatbots | [shaurya-studio.vercel.app](https://shaurya-studio.vercel.app) | HTML, JavaScript, Vercel, Vapi, n8n |
+| **Grow With Us** | AI workshops and training, the education arm of Shaurya Studio | [shaurya-studio.vercel.app](https://shaurya-studio.vercel.app) | Workshops |
+| **Founder HQ** | Founder portfolio and project hub, plus the [FounderVault site](https://github.com/shauryasinghfcb001-netizen/foundervault-site) | [shaurya-portfolio-one.vercel.app](https://shaurya-portfolio-one.vercel.app) | TypeScript, Vercel |
+| **Jarvis** | Personal AI assistant with a second brain over my notes | [repo](https://github.com/shauryasinghfcb001-netizen/jarvis-showcase) | Python, LangGraph, Chroma RAG |
+| **Queen Chatbot** | WhatsApp assistant bot for businesses: rules first, local LLM second | [repo](https://github.com/shauryasinghfcb001-netizen/Queen-chatbot-) | Python, local LLM |
+| **Coaching Lead CRM** | Lead capture and follow-up for coaching centres (demo) | [repo](https://github.com/shauryasinghfcb001-netizen/coaching-lead-crm-demo-showcase) | Web app |
+| **Automation OS** | Operator-style task routing and repeatable workflows | [repo](https://github.com/shauryasinghfcb001-netizen/shaurya-automation-os-hub71-proof-showcase) | Automation workflows |
+| **NotebookLM Clone** | Open source source-grounded AI notebooks (work in progress) | [repo](https://github.com/shauryasinghfcb001-netizen/notebooklm-clone) | RAG |
+| **HyperFrames (fork)** | HTML-to-video rendering for AI agents, used for my AI video content | [repo](https://github.com/shauryasinghfcb001-netizen/hyperframes) | HTML, GSAP |
 
 <sub>Some project repos are private; the linked showcase repos describe them.</sub>
 
